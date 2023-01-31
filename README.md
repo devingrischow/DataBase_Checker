@@ -1,2 +1,2 @@
-# DataBase_Checker
-A GUI Based Program To Automatically Check a DataBase
+# Database_checker
+Checks everything inside a database, and presents it in a nice neat orderly way.
